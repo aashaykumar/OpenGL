@@ -1,0 +1,57 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.VC.db
+*.VC.VC.opendb
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# Build artifacts
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog/
+*.lastbuildstate
+*.cache
+*.db
+*.idb
+*.ipch
+*.iobj
+*.ipdb
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+
+# Output binaries
+*.exe
+*.dll
+*.lib
+*.exp
+*.manifest
+
+# Project-specific
+*.bak
+*.tmp
+*.tmp_proj
+*.csproj.user
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Optional: Uncomment to ignore dependencies if they're external
+# Dependencies/
+
+# Optional: Ignore CMake if added later
+# CMakeFiles/
+# CMakeCache.txt
